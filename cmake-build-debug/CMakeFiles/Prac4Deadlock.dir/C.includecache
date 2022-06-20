@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ronald/CLionProjects/Prac4Deadlock/helper.h
+
+/home/ronald/CLionProjects/Prac4Deadlock/linkedlist.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+linkedlist.h
+/home/ronald/CLionProjects/Prac4Deadlock/linkedlist.h
+helper.h
+/home/ronald/CLionProjects/Prac4Deadlock/helper.h
+
+/home/ronald/CLionProjects/Prac4Deadlock/linkedlist.h
+

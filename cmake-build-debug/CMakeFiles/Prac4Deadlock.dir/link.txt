@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Prac4Deadlock.dir/linkedlist.c.o CMakeFiles/Prac4Deadlock.dir/helper.c.o CMakeFiles/Prac4Deadlock.dir/main.c.o CMakeFiles/Prac4Deadlock.dir/graph.c.o  -o Prac4Deadlock 

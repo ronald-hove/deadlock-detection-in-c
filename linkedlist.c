@@ -327,7 +327,6 @@ void removeNode(struct Node** refToCurrentHeadNode, char nodeToRemove, struct No
  */
 char getHead(struct Node* *refToHead){
     return (*refToHead)->data;
-
 }
 
 

@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project provides an implementation of deadlock detection algorithms in C. Deadlocks are a critical issue in concurrent systems where two or more processes are unable to proceed because each is waiting for the other to release resources. This project aims to detect such deadlocks to ensure the smooth execution of concurrent processes.
+This project provides an implementation of a deadlock detection algorithm in C. Deadlocks are a critical issue in concurrent systems where two or more processes are unable to proceed because each is waiting for the other to release resources. This project aims to detect such deadlocks to ensure the smooth execution of concurrent processes.
 
 ## Features
 
